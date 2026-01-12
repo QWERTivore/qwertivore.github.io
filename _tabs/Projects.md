@@ -8,6 +8,7 @@ order: 1
 
 <div style="display:flex; align-items:center; gap:20px;">
   <img src="/assets/img/icons/compose-ui.svg"
+       alt="ComposeUI logo"
        width="200"
        height="200"
        class="no-shimmer"
