@@ -1,0 +1,16 @@
+/*
+ * Custom styles for the site
+ * Add your own CSS overrides here
+ */
+
+/* Disable shimmer animation on images with .no-shimmer class */
+.no-shimmer {
+  position: relative;
+  z-index: 1;
+}
+
+a:has(.no-shimmer)::before,
+a:has(.no-shimmer) {
+  background: none !important;
+  animation: none !important;
+}

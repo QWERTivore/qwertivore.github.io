@@ -1,0 +1,22 @@
+# Cody A. — Portfolio
+
+Personal blog and portfolio documenting the systems I build and the lessons learned along the way.
+
+🔗 **Live site:** [qwertivore.github.io](https://qwertivore.github.io)
+
+## Topics
+
+- Embedded C++ & LVGL
+- Networking & Systems
+- Spring Services
+- Engineering from First Principles
+
+## Tech Stack
+
+- [Jekyll](https://jekyllrb.com/)
+- [Chirpy Theme](https://github.com/cotes2020/jekyll-theme-chirpy)
+- GitHub Pages
+
+## License
+
+Content © 2026 Cody A. Theme licensed under [MIT](LICENSE).
