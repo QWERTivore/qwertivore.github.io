@@ -3,8 +3,8 @@ title: The Oscilloscope I Never Bought
 description: The origin story behind my oscilloscope project and the journey that eventually led to building ComposeUI.
 author: cody_angeline
 date: 2026-01-01 00:00:00 -0700
-categories: [Engineering, Embedded, Story]
-tags: [compose-ui, oscilloscope, lvgl, embedded]
+categories: [Projects, Embedded Systems, Oscilloscope, Story]
+tags: [compose-ui, oscilloscope, lvgl, arduino, smt32, teensy, ui, embedded c++, domain-driven design] 
 pin: true
 math: true
 mermaid: true

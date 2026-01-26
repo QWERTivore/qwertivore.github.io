@@ -3,9 +3,8 @@ title: Discovery Through Failure
 description: How an abandoned Arduino experiment became the foundation for a serious engineering project.
 author: cody_angeline
 date: 2026-01-02 00:00:00 -0700
-categories: [Projects, Embedded Systems, Oscilloscope]
-tags:
-  [Arduino, STM32, Teensy, UI Architecture, Embedded C++, Domain-Driven Design]
+categories: [Projects, Embedded Systems, Oscilloscope, Story]
+tags: [compose-ui, oscilloscope, lvgl, arduino, smt32, teensy, ui, embedded c++, domain-driven design]
 pin: true
 math: true
 mermaid: true
